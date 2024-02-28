@@ -9,7 +9,7 @@ type Correction = {
   reason: "Grammar" | "Spelling";
 };
 
-const apiKey = "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"; // Type-casting apiKey
+const apiKey = ""; // Type-casting apiKey
 
 interface TextCorrectionProps {
   initialText: string; // Define props interface with initialText
